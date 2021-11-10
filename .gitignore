@@ -1,0 +1,10 @@
+*.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.log
+*.pem
+.DS_Store
+.idea
+*.bak
+*.bk
